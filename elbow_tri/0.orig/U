@@ -37,7 +37,7 @@ boundaryField
         value           uniform (0 3 0);
     }
 
-    pressure-outlet-7
+    pressure-outlet-7 // Neumann boundary condition
     {
         type            zeroGradient;
     }

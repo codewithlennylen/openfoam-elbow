@@ -22,7 +22,7 @@ startTime       0;
 
 stopAt          endTime;
 
-endTime         10;
+endTime         75; // simulate 75 s
 
 deltaT          0.05;
 
